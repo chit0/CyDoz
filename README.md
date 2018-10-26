@@ -4,7 +4,7 @@ $ apt update
 $ apt upgrade
 $ pkg install git 
 $ pkg install python2 
-$ git clone link tadi
+$ git clone https://github.com/chit0/CyDoz.git
 $ pip install termcolor 
 $ pip install colored 
 $ pip install requests 
